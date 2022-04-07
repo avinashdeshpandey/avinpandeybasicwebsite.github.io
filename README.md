@@ -20,3 +20,7 @@ Programming Languages: Familiar with; R, python, SQL, VBA
 - [Operations Research](https://en.wikipedia.org/wiki/Operations_research)
 
 ## Contact 
+avinashdeshpande29@yahoo.com
+
+## website-link
+[Website link](https://avinashdeshpandey.github.io/avinpandeybasicwebsite.github.io/)
